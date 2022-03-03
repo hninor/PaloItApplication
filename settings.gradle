@@ -1,0 +1,2 @@
+rootProject.name = "PaloItApplication"
+include ':app'
